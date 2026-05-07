@@ -1,7 +1,7 @@
 # DeepForest: Land Use and Land Cover Classification for the Amazon Basin
 
 [![Paper](https://img.shields.io/badge/Paper-Remote%20Sensing%202022-blue)](https://www.mdpi.com/2072-4292/14/19/5000)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache%202-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.x-yellow)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-1.x-orange)](https://www.tensorflow.org/)
 
